@@ -42,7 +42,7 @@ git clone https://github.com/Caveine12/Kicau-Mania.git
 
 ## 📸 Preview
 
-Tambahkan screenshot website di sini.
+Untuk melihat preview website klik link di sini : https://kicau-mania-sand.vercel.app/
 
 ## 👨‍💻 Author
 
