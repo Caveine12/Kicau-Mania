@@ -19,9 +19,10 @@ Kicau-Mania/
 ├── CSS/
 │   └── style.css
 ├── Audio/
-│   └── suara-burung.mp3
+│   └── audio.mp3
 └── Foto/
-    └── gambar-burung.jpg
+    └── foto.png
+    └── background.jpg    
 ```
 
 ## 🚀 Cara Menjalankan
